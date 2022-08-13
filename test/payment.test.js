@@ -15,7 +15,3 @@ describe('Testes dos cálculos de folha', () => {
     expect(returned).toBe(expected);
   });
 });
-
-
-
-
