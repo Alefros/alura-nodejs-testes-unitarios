@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import { somaHorasExtras, calculaDescontos } from "../index.js";
 
 describe('Testes dos cálculos de folha', () => {
